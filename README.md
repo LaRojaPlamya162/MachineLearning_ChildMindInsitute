@@ -52,7 +52,7 @@ IPython.display
 
 ## Tools:
 Jupyter Notebook
-Project Structure
+Python 3
 
 ## Evaluation
 The model is evaluated by Quadratic Weighted Kappa (QWK) - a performance metric designed to compare predicted and actual labels, especially for problems with ordinal labels. The QWK value ranges from -1 to 1
@@ -63,9 +63,7 @@ Best Model: Voting Ensemble combining LightGBM, Random Forest Regressor and XGBO
 ## Contact
 Author: ML Teams 
 Members: 
-Trần thái An 22028210
-Nguyễn Tuấn Anh 22028310
-đào đình hiếu 22028221
+Trần thái An 22028210 - Nguyễn Tuấn Anh 22028310 - Đào Đình Hiếu 22028221
 Kaggle Profile: https://www.kaggle.com/tuannguy
 GitHub: LaRojaPlamya162
 Feel free to open an issue or reach out with any questions!
